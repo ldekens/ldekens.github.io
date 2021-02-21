@@ -11,4 +11,5 @@ output:
     theme: cosmo
     highlight: textmate
 bibliography: publications.bib
-output_dir:"."
+
+output_dir: "."
