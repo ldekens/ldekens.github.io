@@ -1,0 +1,13 @@
+name: "Léonard Dekens"
+navbar:
+  title: ""
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Contact"
+      href: about.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+bibliography: publications.bib

@@ -1,0 +1,24 @@
+---
+title: "Léonard Dekens | Mathematical models for evolutionary biology"
+---
+  
+*Warning: page under heavy construction!*
+
+*Disclaimer: I do not believe in fancy-looking modern websites. So enjoy an authentic, artisanal, organically grown, CSS-pesticides free domain.*  
+  
+## Hi, not-so-lost stranger!  
+
+I am a second-year PhD candidate in the Department of Mathematics of the Camille Jordan Institute (ICJ), Lyon, France, supervised by Vincent Calvez (ICJ) and Sepideh Mirrahimi (IMT, Toulouse, France). I hold a BSc. in Mathematics from the École Normale Supérieure (ÉNS) de Lyon and a MSc. in Mathematics and Applied Mathematics from the Claude Bernard University of Lyon and the ÉNS de Lyon.  
+
+
+## Research interest  
+
+My research interest lies at the interface between evolutionary biology and mathematical models of population dynamics (PDE). I believe that deterministic mathematical approaches are insightful to explain complex trait dynamics arising from the interplay of ecological and evolutive phenomena and I like to build and analyse models that shed new lights on evolutionary questions. At the moment, I am looking at the influence of the reproduction mode that shapes trait inheritance (asexual, or clonal, and sexual) on evolutionary dynamics in various settings (fragmented environment, invasive species etc...), through quantitative genetic models.  
+
+
+## Publications
+
+---
+nocite: | 
+  @dekens_parey_DDC_2017, @dekens2020evolutionary, @Calvez_Crevat_Dekens_Fabreges_Kuczma_Lavigne_Raoul_2020
+...
