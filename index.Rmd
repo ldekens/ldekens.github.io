@@ -4,8 +4,6 @@ title: "Léonard Dekens | Mathematical models for evolutionary biology"
   
 *Warning: page under heavy construction!*
 
-*Disclaimer: I do not believe in fancy-looking modern websites. So enjoy an authentic, artisanal, organically grown, CSS-pesticides free domain.*  
-  
 ## Hi, not-so-lost stranger!  
 
 I am a second-year PhD candidate in the Department of Mathematics of the Camille Jordan Institute (ICJ), Lyon, France, supervised by Vincent Calvez (ICJ) and Sepideh Mirrahimi (IMT, Toulouse, France). I hold a BSc. in Mathematics from the École Normale Supérieure (ÉNS) de Lyon and a MSc. in Mathematics and Applied Mathematics from the Claude Bernard University of Lyon and the ÉNS de Lyon.  
