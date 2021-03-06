@@ -18,4 +18,6 @@ My research interest lies at the interface between evolutionary biology and math
 
 ## Publications
 
-- Evolutionary dynamics of complex traits in sexual populations in a strongly heterogeneous environment: how normal?, L.D., 2020
+- $\text{\underline{Evolutionary dynamics of complex traits in sexual populations in a strongly heterogeneous environment: how normal}}?$, L. Dekens, 2020 (submitted: https://arxiv.org/pdf/2012.10115.pdf)
+- $\text{\underline{Influence of the mode of reproduction on dispersal evolution during species invasion}}$, V.  Calvez, J.  Crevat, L. Dekens, B.  Fabrèges, F.  Kuczma, F.  Lavigne and G.l  Raoul, $\text{\textit{ESAIM: ProcS 67 120-134}$, 2020, DOI: 10.1051/proc/202067008
+- $\text{\underline{Multivariate distribution correction of climate model outputs: A generalization of quantile mapping approaches.}}$ L. Dekens, S. Parey, M. Grandjacques and D. Dacunha‐Castelle. $\text{\textit{Environmetrics}}$, 2017, https://doi.org/10.1002/env.2454 
