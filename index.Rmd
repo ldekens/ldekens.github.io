@@ -18,7 +18,4 @@ My research interest lies at the interface between evolutionary biology and math
 
 ## Publications
 
----
-nocite: | 
-  @dekens_parey_DDC_2017, @dekens2020evolutionary, @Calvez_Crevat_Dekens_Fabreges_Kuczma_Lavigne_Raoul_2020
-...
+- Evolutionary dynamics of complex traits in sexual populations in a strongly heterogeneous environment: how normal?, L.D., 2020
