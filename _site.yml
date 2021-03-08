@@ -5,7 +5,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Contact"
-      href: contact.html
+      href: about.html
 output:
   html_document:
     theme: cosmo
