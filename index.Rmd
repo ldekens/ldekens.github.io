@@ -14,6 +14,7 @@ My research interest lies at the interface between evolutionary biology and math
 
 ## Publications
 
+- __Front propagation of a sexual population with evolution of dispersion: a formal analysis__, L. Dekens and F.Lavigne, 2021 (*accepted* in SIAP)
 - __Evolutionary dynamics of complex traits in sexual populations in a strongly heterogeneous environment: how normal?__, L. Dekens, 2020 (*submitted*: https://arxiv.org/pdf/2012.10115.pdf)
 - __Influence of the mode of reproduction on dispersal evolution during species invasion__, V.  Calvez, J.  Crevat, L. Dekens, B.  Fabrèges, F.  Kuczma, F.  Lavigne and G.l  Raoul, *ESAIM: ProcS 67 120-134*, 2020, https://www.esaim-proc.org/articles/proc/pdf/2020/01/proc206708.pdf
 - __Multivariate distribution correction of climate model outputs: A generalization of quantile mapping approaches.__ L. Dekens, S. Parey, M. Grandjacques and D. Dacunha‐Castelle. *Environmetrics*, 2017, https://doi.org/10.1002/env.2454 
