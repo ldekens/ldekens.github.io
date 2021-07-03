@@ -13,7 +13,7 @@ My research interest lies at the __interface between evolutionary biology and ma
 
 At the moment, I am looking at the __influence of the reproduction mode__ that shapes trait inheritance (asexual, or clonal, and sexual) on evolutionary dynamics in various settings (fragmented environment, invasive species etc...), through __quantitative genetic models__. 
 
-I am very fortunate and grateful for having spent a year visiting __Sarah Otto's lab in the Biodiversity Research Center__, UBC, Vancouver, in immerson before and during my first year of PhD to learn more about evolutionary biologists' interests and questions directly.
+I am very fortunate and grateful for having spent a year visiting __Sarah Otto's lab in the Biodiversity Research Center__, UBC, Vancouver, in immerson before and during my first year of PhD to learn more directly about evolutionary biologists' interests and questions
 
 
 ## Publications
