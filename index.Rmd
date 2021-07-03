@@ -4,7 +4,7 @@ title: "Léonard Dekens | Mathematical models for evolutionary biology"
   
 ## Hi, not-so-lost stranger!  
 
-I am a second-year PhD candidate in the Department of Mathematics of the Camille Jordan Institute (ICJ), Lyon, France, supervised by Vincent Calvez (ICJ) and Sepideh Mirrahimi (IMT, Toulouse, France). I hold a BSc. in Mathematics from the École Normale Supérieure (ÉNS) de Lyon and a MSc. in Mathematics and Applied Mathematics from the Claude Bernard University of Lyon and the ÉNS de Lyon. 
+I am a __second-year PhD candidate in the Department of Mathematics of the Camille Jordan Institute__ (ICJ), Lyon, France, supervised by Vincent Calvez (ICJ) and Sepideh Mirrahimi (IMT, Toulouse, France). I hold a BSc. in Mathematics from the École Normale Supérieure (ÉNS) de Lyon and a MSc. in Mathematics and Applied Mathematics from the Claude Bernard University of Lyon and the ÉNS de Lyon. 
 
 
 ## Research interest  
@@ -13,7 +13,7 @@ My research interest lies at the __interface between evolutionary biology and ma
 
 At the moment, I am looking at the __influence of the reproduction mode__ that shapes trait inheritance (asexual, or clonal, and sexual) on evolutionary dynamics in various settings (fragmented environment, invasive species etc...), through __quantitative genetic models__. 
 
-I am very fortunate and grateful for having spent a year visiting Sarah Otto's lab in the Biodiversity Research Center, UBC, Vancouver, in immerson before and during my first year of PhD to learn more about evolutionary biologists' interests and questions directly.
+I am very fortunate and grateful for having spent a year visiting __Sarah Otto's lab in the Biodiversity Research Center__, UBC, Vancouver, in immerson before and during my first year of PhD to learn more about evolutionary biologists' interests and questions directly.
 
 
 ## Publications
@@ -22,3 +22,9 @@ I am very fortunate and grateful for having spent a year visiting Sarah Otto's l
 - __Evolutionary dynamics of complex traits in sexual populations in a strongly heterogeneous environment: how normal?__, L. Dekens, 2020 (*submitted*, arXiv link: https://arxiv.org/pdf/2012.10115.pdf)
 - __Influence of the mode of reproduction on dispersal evolution during species invasion__, V.  Calvez, J.  Crevat, L. Dekens, B.  Fabrèges, F.  Kuczma, F.  Lavigne and G.l  Raoul, *ESAIM: ProcS 67 120-134*, 2020, https://www.esaim-proc.org/articles/proc/pdf/2020/01/proc206708.pdf
 - __Multivariate distribution correction of climate model outputs: A generalization of quantile mapping approaches.__ L. Dekens, S. Parey, M. Grandjacques and D. Dacunha‐Castelle. *Environmetrics*, 2017, https://doi.org/10.1002/env.2454 
+
+
+## Talks in conference
+
+-__Dynamics of a quantitative trait in a patchy environment: beneath the Gaussian approximation__, L.Dekens, *SMB 2021* (Talk Award for
+Population Dynamics & Evolution), *Virtual Evolution 2021*.
