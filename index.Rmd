@@ -26,5 +26,5 @@ I am very fortunate and grateful for having spent a year visiting __Sarah Otto's
 
 ## Talks in conference
 
--__Quantitative trait in a patchy environment: beneath the Gaussian approximation.__ L.Dekens, *SMB 2021* (Talk Award for
+- __Quantitative trait in a patchy environment: beneath the Gaussian approximation.__ L.Dekens, *Society of Mathematical Biology 2021* (Talk Award for
 Population Dynamics & Evolution), *Virtual Evolution 2021*.
