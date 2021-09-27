@@ -9,7 +9,7 @@ I am a __third-year PhD candidate in the Department of Mathematics of the Camill
 
 ## Research interest  
 
-My research interest lies at the __interface between evolutionary biology and mathematical models of population dynamics__ (mainly derterminstic - PDEs). I believe that deterministic mathematical approaches are insightful to explain __complex trait dynamics arising from the interplay of ecological and evolutive phenomena__ and I like to build and analyse models that shed new lights on evolutionary questions. 
+My research interest lies at the __interface between evolutionary biology and mathematical models of population dynamics__ (mainly derterministic - PDEs). I believe that deterministic mathematical approaches are insightful to explain __complex trait dynamics arising from the interplay of ecological and evolutive phenomena__ and I like to build and analyse models that shed new lights on evolutionary questions. 
 
 At the moment, I am looking at the __influence of the reproduction mode__ that shapes trait inheritance (asexual, or clonal, and sexual) on evolutionary dynamics in various settings (fragmented environment, invasive species etc...), through __quantitative genetic models__. 
 
