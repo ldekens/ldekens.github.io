@@ -9,19 +9,19 @@ I am a __third-year PhD candidate in the Department of Mathematics of the Camill
 
 ## Research interest  
 
-My research interest lies at the __interface between evolutionary biology and mathematical models of population dynamics__ (mainly derterministic - PDEs). I believe that deterministic mathematical approaches are insightful to explain __complex trait dynamics arising from the interplay of ecological and evolutive phenomena__ and I like to build and analyse models that shed new lights on evolutionary questions. 
+My research interest lies at the __interface between evolutionary biology and mathematical models of population dynamics__ (mainly derterministic - PDEs). I believe that deterministic mathematical approaches are insightful to explain __complex trait dynamics arising from the interplay of ecological and evolutive phenomena in large populations__ and I like to build and analyse models that shed new lights on evolutionary questions. 
 
 At the moment, I am looking at the __influence of the reproduction mode__ that shapes trait inheritance (asexual, or clonal, and sexual) on evolutionary dynamics in various settings (fragmented environment, invasive species etc...), through __quantitative genetic models__. 
 
-I am very fortunate and grateful for having spent a year visiting __Sarah Otto's lab in the Biodiversity Research Center__, UBC, Vancouver, in immerson before and during my first year of PhD to learn more directly about evolutionary biologists' interests and questions
+I am very fortunate and grateful for having spent a year visiting __Sarah Otto's lab in the Biodiversity Research Center__, UBC, Vancouver, in immersion before and during my first year of PhD to learn more directly about evolutionary biologists' interests and questions.
 
 
 ## Publications
 
-- __Evolutionary dynamics of complex traits in sexual populations in a heterogeneous environment: how normal?__, L. Dekens, 2021 (*accepted with minor revisions, Journal of Mathematical Biology*, arXiv link: https://arxiv.org/pdf/2012.10115.pdf)
-- __Front propagation of a sexual population with evolution of dispersion: a formal analysis__, L. Dekens and F.Lavigne, 2021 (*SIAM Journal on Applied Mathematics*, arXiv link: https://arxiv.org/pdf/2105.02523.pdf)
-- __Influence of the mode of reproduction on dispersal evolution during species invasion__, V.  Calvez, J.  Crevat, L. Dekens, B.  Fabrèges, F.  Kuczma, F.  Lavigne and G.l  Raoul, *ESAIM: ProcS 67 120-134*, 2020, https://www.esaim-proc.org/articles/proc/pdf/2020/01/proc206708.pdf
-- __Multivariate distribution correction of climate model outputs: A generalization of quantile mapping approaches.__ L. Dekens, S. Parey, M. Grandjacques and D. Dacunha‐Castelle. *Environmetrics*, 2017, https://doi.org/10.1002/env.2454 
+- __Evolutionary dynamics of complex traits in sexual populations in a heterogeneous environment: how normal?__, L. Dekens, 2021, *Journal of Mathematical Biology* (*accepted with minor revisions*, arXiv link: https://arxiv.org/pdf/2012.10115.pdf)
+- __Front propagation of a sexual population with evolution of dispersion: a formal analysis__, L. Dekens and F.Lavigne, 2021,*SIAM Journal on Applied Mathematics* (arXiv link: https://arxiv.org/pdf/2105.02523.pdf)
+- __Influence of the mode of reproduction on dispersal evolution during species invasion__, V.  Calvez, J.  Crevat, L. Dekens, B.  Fabrèges, F.  Kuczma, F.  Lavigne and G.  Raoul, , 2020, *ESAIM: ProcS 67 120-134*, https://www.esaim-proc.org/articles/proc/pdf/2020/01/proc206708.pdf
+- __Multivariate distribution correction of climate model outputs: A generalization of quantile mapping approaches.__ L. Dekens, S. Parey, M. Grandjacques and D. Dacunha‐Castelle. , 2017, *Environmetrics*, https://doi.org/10.1002/env.2454 
 
 
 ## Talks in conference
