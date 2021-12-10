@@ -4,16 +4,16 @@ title: "Léonard Dekens | Mathematical models for evolutionary biology"
   
 ## Hi, not-so-lost stranger!  
 
-I am a __third-year PhD candidate in the Department of Mathematics of the Camille Jordan Institute__ (ICJ), Lyon, France, supervised by Vincent Calvez (ICJ) and Sepideh Mirrahimi (IMT, Toulouse, France). I hold a BSc. in Mathematics from the École Normale Supérieure (ÉNS) de Lyon and a MSc. in Mathematics and Applied Mathematics from the Claude Bernard University of Lyon and the ÉNS de Lyon. 
+I am a __third-year PhD candidate in the Department of Mathematics of the Camille Jordan Institute__ (ICJ), Lyon, France, supervised by Vincent Calvez (ICJ) and Sepideh Mirrahimi (IMT, Toulouse, France). I hold a B.Sc. in Mathematics from the École Normale Supérieure (ÉNS) de Lyon and a M.Sc. in Mathematics and Applied Mathematics from the Claude Bernard University of Lyon and the ÉNS de Lyon. 
 
 
 ## Research interest  
 
 My research interest lies at the __interface between evolutionary biology and mathematical models of population dynamics__ (mainly derterministic - PDEs). I believe that deterministic mathematical approaches are insightful to explain __complex trait dynamics arising from the interplay of ecological and evolutive phenomena in large populations__ and I like to build and analyse models that shed new lights on evolutionary questions. 
 
-At the moment, I am looking at the __influence of the reproduction mode__ that shapes trait inheritance (asexual, or clonal, and sexual) on evolutionary dynamics in various settings (fragmented environment, invasive species etc...), through __quantitative genetic models__. 
+During my PhD, I am looking at the __influence of the reproduction mode__ that shapes trait inheritance (asexual, or clonal, and sexual) on evolutionary dynamics in various settings (fragmented environment, invasive species, changing environments etc...), through __quantitative genetic models__. I am also very interested by the modelling of the __evolution of genetic architecture__ and __intricate gene-traits associations__.
 
-I am very fortunate and grateful for having spent a year visiting __Sarah Otto's lab in the Biodiversity Research Center__, UBC, Vancouver, in immersion before and during my first year of PhD to learn more directly about evolutionary biologists' interests and questions.
+I am very fortunate and grateful for having spent a year visiting __Prof. Sarah Otto's lab in the Biodiversity Research Center__, UBC, Vancouver, in immersion before and during my first year of PhD to learn more directly about evolutionary biologists' interests and questions, in particular about theoretical relationships between population genetic and quantitative genetic models. I am thrilled about our vivid overseas collaboration and invite you to consult our recent paper __The best of both worlds: combining population genetic and quantitative genetic models__ (see link below), that proposes a hybrid model that bridges the two fields.
 
 
 ## Publications
