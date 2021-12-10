@@ -28,5 +28,6 @@ I am very fortunate and grateful for having spent a year visiting __Prof. Sarah 
 
 ## Talks in conference
 
+- *Non-Local Models arising from Biology* (CIRM, Marseille, October 2021)
 - *Virtual Evolution 2021*
 - *Society of Mathematical Biology 2021* (Talk Award for Population Dynamics & Evolution)
