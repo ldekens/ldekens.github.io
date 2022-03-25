@@ -9,12 +9,17 @@ I am a __third-year PhD candidate in the Department of Mathematics of the Camill
 
 ## Research interest  
 
-My research interest lies at the __interface between evolutionary biology and mathematical models of population dynamics__ (mainly derterministic - PDEs). I believe that deterministic mathematical approaches are insightful to explain __complex trait dynamics arising from the interplay of ecological and evolutive phenomena in large populations__ and I like to build and analyse models that shed new lights on evolutionary questions. 
+My research interest lies at the __interface between evolutionary biology and mathematical models of population dynamics__ (mainly deterministic - PDEs). I believe that deterministic mathematical approaches are insightful to explain __complex trait dynamics arising from the interplay of ecological and evolutive phenomena in large populations__ and I like to build and analyse models that shed new lights on evolutionary questions. 
 
-During my PhD, I am looking at the __influence of the reproduction mode__ that shapes trait inheritance (asexual, or clonal, and sexual) on evolutionary dynamics in various settings (fragmented environment, invasive species, changing environments etc...), through __quantitative genetic models__. I am also very interested by the modelling of the __evolution of genetic architecture__ and __intricate gene-traits associations__.
+__*What?*__ During my PhD, I am investigating specifically the __influence of sexual reproduction__ (as a contrast to asexual, or clonal, reproduction) on sptial eco-evolutionary dynamics in various settings (fragmented environment, invasive species, changing environments etc...), through __quantitative genetic models__. I am also very interested by the modelling of the __evolution of genetic architecture__ and __intricate gene-traits associations__.
+
+__*Why?*__ Although __sexual reproduction is ubiquitous__ in multi-cellular organisms (plants, animals, fungi), there is only a handful of techniques that are developed to analyse the eco-evolutionary fate of large sexually reproducing populations characterized by a quantitative trait, like the size of individuals, the stamina of their muscles etc... One of the main analytical difficulties relates to __how sexual reproduction shapes the inheritance process__ of such complex traits resulting from a large number of genes contributions, even if each individual gene's inheritance is well understood. Moreover, as an offspring's trait can be far from both its parents' traits, this inheritance process from one generation to the next presents new mathematical challenges, as it involves __non-local models for long-range interactions__.
+
+## Experience of a theoretical biology lab
 
 I am very fortunate and grateful for having spent a year visiting __Prof. Sarah Otto's lab in the Biodiversity Research Center__, UBC, Vancouver, in immersion before and during my first year of PhD to learn more directly about evolutionary biologists' interests and questions, in particular about __theoretical relationships between population genetic and quantitative genetic models__. I am thrilled about our vivid overseas collaboration and invite you to consult our recent paper *The best of both worlds: combining population genetic and quantitative genetic models* (see link below), that proposes a hybrid model that bridges the two fields.
 
+I aknowledge that, during that time, I have lived and worked in the traditional, unceded, and occupied territory of the xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh (Squamish), and səlilwətaɬ (Tsleil-Waututh) peoples.
 
 ## Publications
 
@@ -26,8 +31,9 @@ I am very fortunate and grateful for having spent a year visiting __Prof. Sarah 
 - __Multivariate distribution correction of climate model outputs: A generalization of quantile mapping approaches.__ L. Dekens, S. Parey, M. Grandjacques and D. Dacunha‐Castelle. , 2017, *Environmetrics*, https://doi.org/10.1002/env.2454 
 
 
-## Talks in conference
+## Talks in conferences and workshops
 
+- *Mathematical models of Ecology and Evolution* (Institut Henri Poincaré, Paris, March 2022)
 - *Non-Local Models arising from Biology* (CIRM, Marseille, October 2021)
 - *Virtual Evolution 2021*
 - *Society of Mathematical Biology 2021* (Talk Award for Population Dynamics & Evolution)
