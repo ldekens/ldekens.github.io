@@ -4,14 +4,14 @@ title: "Léonard Dekens | Mathematical models for evolutionary biology"
   
 ## Hi, not-so-lost stranger!  
 
-I am a __third-year PhD candidate in the Department of Mathematics of the Camille Jordan Institute__ (ICJ), Lyon, France, supervised by Vincent Calvez (ICJ) and Sepideh Mirrahimi (IMT, Toulouse, France). I hold a B.Sc. in Mathematics from the École Normale Supérieure (ÉNS) de Lyon and a M.Sc. in Mathematics and Applied Mathematics from the Claude Bernard University of Lyon and the ÉNS de Lyon. 
+I am an __FSMP postdoctoral fellow at the department of Applied Mathematics (MAP5) of the University of Paris__. I just recently defended my PhD of Mathematics at the Camille Jordan Institute (Claude Bernard University of Lyon, France) supervised by Vincent Calvez (ICJ, CNRS) and Sepideh Mirrahimi (IMT, CNRS, Toulouse, France). I hold a B.Sc. in Mathematics from the École Normale Supérieure (ÉNS) de Lyon and a M.Sc. in Mathematics and Applied Mathematics from the Claude Bernard University of Lyon and the ÉNS de Lyon. 
 
 
 ## Research interest  
 
 My research interest lies at the __interface between evolutionary biology and mathematical models of population dynamics__ (mainly deterministic - PDEs). I believe that deterministic mathematical approaches are insightful to explain __complex trait dynamics arising from the interplay of ecological and evolutive phenomena in large populations__ and I like to build and analyse models that shed new lights on evolutionary questions. 
 
-__*What?*__ During my PhD, I am investigating specifically the __influence of sexual reproduction__ (as a contrast to asexual, or clonal, reproduction) on sptial eco-evolutionary dynamics in various settings (fragmented environment, invasive species, changing environments etc...), through __quantitative genetic models__. I am also very interested by the modelling of the __evolution of genetic architecture__ and __intricate gene-traits associations__.
+__*What?*__ During my PhD, I have investigated specifically the __influence of sexual reproduction__ (as a contrast to asexual, or clonal, reproduction) on sptial eco-evolutionary dynamics in various settings (fragmented environment, invasive species, changing environments etc...), through __quantitative genetic models__. I am also very interested by the modelling of the __evolution of genetic architecture__ and __intricate gene-traits associations__.
 
 __*Why?*__ Although __sexual reproduction is ubiquitous__ in multi-cellular organisms (plants, animals, fungi), there is only a handful of techniques that are developed to analyse the eco-evolutionary fate of large sexually reproducing populations characterized by a quantitative trait, like the size of individuals, the stamina of their muscles etc... One of the main analytical difficulties relates to __how sexual reproduction shapes the inheritance process of such complex traits resulting from a large number of genes contributions__, even if each individual gene's inheritance is well understood. Moreover, as an offspring's trait can be far from both its parents' traits, this inheritance process from one generation to the next presents new mathematical challenges, as it involves __non-local models for long-range interactions__.
 
@@ -23,16 +23,21 @@ I aknowledge that, during that time, I have lived and worked in the traditional,
 
 ## Publications
 
-- __The best of both worlds: combining population genetic and quantitative genetic models__, L. Dekens, S.P. Otto and V. Calvez, 2021 (*under review*, arXiv link: https://arxiv.org/abs/2111.11142)
-- __Dynamics of dirac concentrations in the evolution of quantitative alleles with sexual reproduction__, L. Dekens and S. Mirrahimi, 2021 (*under review*, arXiv link: https://arxiv.org/abs/2111.14814)
-- __Evolutionary dynamics of complex traits in sexual populations in a heterogeneous environment: how normal?__, L. Dekens, 2021, *Journal of Mathematical Biology* (read-only published version: https://rdcu.be/cF7gg, arXiv link: https://arxiv.org/pdf/2012.10115.pdf)
-- __Front propagation of a sexual population with evolution of dispersion: a formal analysis__, L. Dekens and F.Lavigne, 2021, *SIAM Journal on Applied Mathematics* (arXiv link: https://arxiv.org/pdf/2105.02523.pdf)
+- __The best of both worlds: combining population genetic and quantitative genetic models__, L. Dekens, S.P. Otto and V. Calvez, 2022 (*Theoretical Population Biology (accepted)*, arXiv link: https://arxiv.org/abs/2111.11142)
+- __Dynamics of dirac concentrations in the evolution of quantitative alleles with sexual reproduction__, L. Dekens and S. Mirrahimi, 2022 (*Nonlinearity (in press)*, arXiv link: https://arxiv.org/abs/2111.14814)
+- __Evolutionary dynamics of complex traits in sexual populations in a heterogeneous environment: how normal?__, L. Dekens, 2022, *Journal of Mathematical Biology* (read-only published version: https://rdcu.be/cF7gg, arXiv link: https://arxiv.org/pdf/2012.10115.pdf)
+- __Front propagation of a sexual population with evolution of dispersion: a formal analysis__, L. Dekens and F.Lavigne, 2021, *SIAM Journal of Applied Mathematics* (arXiv link: https://arxiv.org/pdf/2105.02523.pdf)
 - __Influence of the mode of reproduction on dispersal evolution during species invasion__, V.  Calvez, J.  Crevat, L. Dekens, B.  Fabrèges, F.  Kuczma, F.  Lavigne and G.  Raoul, 2020, *ESAIM: ProcS 67 120-134*, https://www.esaim-proc.org/articles/proc/pdf/2020/01/proc206708.pdf
 - __Multivariate distribution correction of climate model outputs: A generalization of quantile mapping approaches.__ L. Dekens, S. Parey, M. Grandjacques and D. Dacunha‐Castelle. , 2017, *Environmetrics*, https://doi.org/10.1002/env.2454 
 
 
-## Talks in conferences and workshops
+## Talks in international conferences and workshops
 
+
+- *14th Congress of the European Society of Mathematical Biology 2022* (Heidelberg, Germany, September 2022)
+- *Congress of the European Society of Evolutionary Biology 2022* (Praha, Czech Republic, August 2022)
+- *MMEE 2022* (Reading, UK, July 2022)
+- *Evolution 2022* (Cleveland, USA, June 2022)
 - *Mathematical models of Ecology and Evolution* (Institut Henri Poincaré, Paris, March 2022)
 - *Non-Local Models arising from Biology* (CIRM, Marseille, October 2021)
 - *Virtual Evolution 2021*
