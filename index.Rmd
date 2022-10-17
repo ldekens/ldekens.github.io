@@ -24,7 +24,7 @@ I aknowledge that, during that time, I have lived and worked in the traditional,
 ## Publications
 
 - __The best of both worlds: combining population genetic and quantitative genetic models__, L. Dekens, S.P. Otto and V. Calvez, 2022, *Theoretical Population Biology (accepted)*, arXiv link: https://arxiv.org/abs/2111.11142)
-- __Dynamics of dirac concentrations in the evolution of quantitative alleles with sexual reproduction__, L. Dekens and S. Mirrahimi, 2022, *Nonlinearity (in press)*, arXiv link: https://arxiv.org/abs/2111.14814)
+- __Dynamics of dirac concentrations in the evolution of quantitative alleles with sexual reproduction__, L. Dekens and S. Mirrahimi, 2022, *Nonlinearity*, doi: https://doi.org/10.1088/1361-6544/ac91bb, arXiv link: https://arxiv.org/abs/2111.14814)
 - __Evolutionary dynamics of complex traits in sexual populations in a heterogeneous environment: how normal?__, L. Dekens, 2022, *Journal of Mathematical Biology* (doi: 10.1007/s00285-021-01712-0, read-only published version: https://rdcu.be/cF7gg, arXiv link: https://arxiv.org/pdf/2012.10115.pdf)
 - __Front propagation of a sexual population with evolution of dispersion: a formal analysis__, L. Dekens and F.Lavigne, 2021, *SIAM Journal of Applied Mathematics* (doi: https://doi.org/10.1137/20M1356129, arXiv link: https://arxiv.org/pdf/2105.02523.pdf)
 - __Influence of the mode of reproduction on dispersal evolution during species invasion__, V.  Calvez, J.  Crevat, L. Dekens, B.  Fabrèges, F.  Kuczma, F.  Lavigne and G.  Raoul, 2020, *ESAIM: ProcS 67 120-134* (doi:  		https://doi.org/10.1051/proc/202067008, pdf: https://www.esaim-proc.org/articles/proc/pdf/2020/01/proc206708.pdf)
