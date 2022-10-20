@@ -34,6 +34,7 @@ I aknowledge that, during that time, I have lived and worked in the traditional,
 ## Talks in international conferences and workshops
 
 
+- *ANR Integro-Differential Equations from EVolutionary biology* (IMAG,  Montpellier, October 2022)
 - *14th Congress of the European Society of Mathematical Biology 2022* (Heidelberg, Germany, September 2022)
 - *Congress of the European Society of Evolutionary Biology 2022* (Praha, Czech Republic, August 2022)
 - *MMEE 2022* (Reading, UK, July 2022)
