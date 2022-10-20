@@ -4,7 +4,7 @@ title: "Léonard Dekens | Mathematical models for evolutionary biology"
   
 ## Hi, not-so-lost stranger!  
 
-I am an __[FSMP](https://sciencesmaths-paris.fr/en/) postdoctoral fellow at the department of Applied Mathematics (MAP5) of the University of Paris__. I just recently defended my PhD of Mathematics at the Camille Jordan Institute (Claude Bernard University of Lyon, France) supervised by Vincent Calvez (ICJ, CNRS) and Sepideh Mirrahimi (IMAG, CNRS, Montpellier, France). I hold a B.Sc. in Mathematics from the École Normale Supérieure (ÉNS) de Lyon and a M.Sc. in Mathematics and Applied Mathematics from the Claude Bernard University of Lyon and the ÉNS de Lyon. 
+I am an __[FSMP](https://sciencesmaths-paris.fr/en/) postdoctoral fellow at the department of Applied Mathematics (MAP5) of the University of Paris__. I just recently defended my PhD of Mathematics at the Camille Jordan Institute (Claude Bernard University of Lyon, France) supervised by [Vincent Calvez](https://vcalvez.perso.math.cnrs.fr/) (ICJ, CNRS) and [Sepideh Mirrahimi](https://imag.umontpellier.fr/~mirrahimi/) (IMAG, CNRS, Montpellier, France). I hold a B.Sc. in Mathematics from the École Normale Supérieure (ÉNS) de Lyon and a M.Sc. in Mathematics and Applied Mathematics from the Claude Bernard University of Lyon and the ÉNS de Lyon. 
 
 
 ## Research interest  
@@ -17,7 +17,7 @@ __*Why?*__ Although __sexual reproduction is ubiquitous__ in multi-cellular orga
 
 ## Experience of a theoretical biology lab
 
-I am very fortunate and grateful for having spent a year visiting __Prof. Sarah Otto's lab in the Biodiversity Research Center__, UBC, Vancouver, in immersion before and during my first year of PhD to learn more directly about evolutionary biologists' interests and questions, in particular about __theoretical relationships between population genetic and quantitative genetic models__. I am thrilled about our vivid overseas collaboration and invite you to consult our recent paper *The best of both worlds: combining population genetic and quantitative genetic models* (see link below), that proposes a hybrid model that bridges the two fields.
+I am very fortunate and grateful for having spent a year visiting __Prof. [Sarah Otto](https://www.zoology.ubc.ca/~otto/)'s lab in the Biodiversity Research Center__, UBC, Vancouver, in immersion before and during my first year of PhD to learn more directly about evolutionary biologists' interests and questions, in particular about __theoretical relationships between population genetic and quantitative genetic models__. I am thrilled about our vivid overseas collaboration and invite you to consult our recent paper *The best of both worlds: combining population genetic and quantitative genetic models* (see link below), that proposes a composite model that bridges the two fields.
 
 I aknowledge that, during that time, I have lived and worked in the traditional, unceded, and occupied territory of the xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh (Squamish), and səlilwətaɬ (Tsleil-Waututh) peoples.
 
