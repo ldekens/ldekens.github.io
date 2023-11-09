@@ -2,6 +2,11 @@
 title: "Talks in international conferences and workshops"
 ---
 
+<style type="text/css">
+  body{
+  font-size: 14pt;
+}
+</style>
 1) *Evolution 2023* (Albuquerque, USA, June 2023)
 11) *RMR 2023 : Modèles mathématiques pour la biologie et la santé* (Rouen, June 2023)
 10) *Mathematical Models of Evolutionary Rescue* (Max Planck Institute for Evolutionary Biology,  Plön, Germany, June 2023)

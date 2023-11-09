@@ -1,7 +1,13 @@
 ---
 title: "Léonard Dekens | Mathematical models for evolutionary biology"
 ---
-  
+
+<style type="text/css">
+  body{
+  font-size: 14pt;
+}
+</style>
+
 ## Introduction
 
 Since November 2023, I am a Postdoctoral Fellow at the __[Francis Crick Institute](https://www.crick.ac.uk/) (London)__, in the __[Difrisco lab of Theoretical Biology](https://www.crick.ac.uk/research/labs/james-difrisco)__. Previously, I was a __[FSMP](https://sciencesmaths-paris.fr/en/) postdoctoral fellow at the department of Applied Mathematics (MAP5) of the University of Paris__, after defending my PhD of Mathematics in July 2022, under the supervision of [Vincent Calvez](https://vcalvez.perso.math.cnrs.fr/) (ICJ, CNRS) and [Sepideh Mirrahimi](https://imag.umontpellier.fr/~mirrahimi/) (IMAG, CNRS, Montpellier, France). I hold a B.Sc. in Mathematics from the École Normale Supérieure (ÉNS) de Lyon and a M.Sc. in Mathematics and Applied Mathematics from the Claude Bernard University of Lyon and the ÉNS de Lyon. 

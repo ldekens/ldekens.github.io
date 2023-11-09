@@ -2,6 +2,11 @@
 title: "Léonard Dekens | Contact"
 ---
 
+<style type="text/css">
+  body{
+  font-size: 14pt;
+}
+</style>
 Mail: firstname[x]surname[y]crick[x]ac[x]uk
 (where (x, y, z) = (., @, - ))
 
