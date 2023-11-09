@@ -1,7 +1,5 @@
 ---
-title: "Talks in international conferences and workshops
-"
-output: html_document
+title: "Talks in international conferences and workshops"
 ---
 
 12) *Evolution 2023* (Albuquerque, USA, June 2023)

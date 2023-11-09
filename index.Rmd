@@ -22,28 +22,3 @@ __*Why?*__ Although __sexual reproduction is ubiquitous__ in multi-cellular orga
 I am very fortunate and grateful for having spent a year visiting __Prof. [Sarah Otto](https://www.zoology.ubc.ca/~otto/)'s lab in the Biodiversity Research Center__, UBC, Vancouver, before and during my first year of PhD (2019-2020). In immersion, I learned more directly about evolutionary biologists' interests and questions, in particular about __theoretical relationships between population genetic and quantitative genetic models__. I am thrilled about our vivid overseas collaboration and invite you to consult our recent paper *The best of both worlds: combining population genetic and quantitative genetic models* (see link below), that proposes a composite model that bridges the two fields.
 
 I aknowledge that, during that time, I have lived and worked in the traditional, unceded, and occupied territory of the xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh (Squamish), and səlilwətaɬ (Tsleil-Waututh) peoples.
-
-## Publications
-- __Sharp habitat shifts, evolutionary tipping points and rescue: quantifying the perilous path of a specialist species toward a refugium in a changing environment__, L. Dekens, 2023, (*under review*, biorxiv link: https://www.biorxiv.org/content/10.1101/2023.09.28.559956v1)
-- __The best of both worlds: combining population genetic and quantitative genetic models__, L. Dekens, S.P. Otto and V. Calvez, 2022, *Theoretical Population Biology*, doi: https://doi.org/10.1016/j.tpb.2022.10.002, arXiv link: https://arxiv.org/abs/2111.11142)
-- __Dynamics of dirac concentrations in the evolution of quantitative alleles with sexual reproduction__, L. Dekens and S. Mirrahimi, 2022, *Nonlinearity*, doi: https://doi.org/10.1088/1361-6544/ac91bb, arXiv link: https://arxiv.org/abs/2111.14814)
-- __Evolutionary dynamics of complex traits in sexual populations in a heterogeneous environment: how normal?__, L. Dekens, 2022, *Journal of Mathematical Biology* (doi: 10.1007/s00285-021-01712-0, read-only published version: https://rdcu.be/cF7gg, arXiv link: https://arxiv.org/pdf/2012.10115.pdf)
-- __Front propagation of a sexual population with evolution of dispersion: a formal analysis__, L. Dekens and F.Lavigne, 2021, *SIAM Journal of Applied Mathematics* (doi: https://doi.org/10.1137/20M1356129, arXiv link: https://arxiv.org/pdf/2105.02523.pdf)
-- __Influence of the mode of reproduction on dispersal evolution during species invasion__, V.  Calvez, J.  Crevat, L. Dekens, B.  Fabrèges, F.  Kuczma, F.  Lavigne and G.  Raoul, 2020, *ESAIM: ProcS 67 120-134* (doi:  		https://doi.org/10.1051/proc/202067008, pdf: https://www.esaim-proc.org/articles/proc/pdf/2020/01/proc206708.pdf)
-- __Multivariate distribution correction of climate model outputs: A generalization of quantile mapping approaches.__ L. Dekens, S. Parey, M. Grandjacques and D. Dacunha‐Castelle. , 2017, *Environmetrics* (doi: https://doi.org/10.1002/env.2454)
-
-
-## Talks in international conferences and workshops
-
-- *Evolution 2023* (Albuquerque, USA, June 2023)
-- *RMR 2023 : Modèles mathématiques pour la biologie et la santé* (Rouen, June 2023)
-- *Mathematical Models of Evolutionary Rescue* (Max Planck Institute for Evolutionary Biology,  Plön, Germany, June 2023)
-- *ANR Integro-Differential Equations from EVolutionary biology* (IMAG,  Montpellier, October 2022)
-- *14th Congress of the European Society of Mathematical Biology 2022* (Heidelberg, Germany, September 2022)
-- *Congress of the European Society of Evolutionary Biology 2022* (Praha, Czech Republic, August 2022)
-- *MMEE 2022* (Reading, UK, July 2022)
-- *Evolution 2022* (Cleveland, USA, June 2022)
-- *Mathematical models of Ecology and Evolution* (Institut Henri Poincaré, Paris, March 2022)
-- *Non-Local Models arising from Biology* (CIRM, Marseille, October 2021)
-- *Virtual Evolution 2021*
-- *Society of Mathematical Biology 2021* (Talk Award for Population Dynamics & Evolution)
