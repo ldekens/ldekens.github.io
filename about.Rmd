@@ -2,10 +2,9 @@
 title: "Léonard Dekens | Contact"
 ---
 
-Mail: firstname[x]name[y]u[z]paris[x]fr
+Mail: firstname[x]surname[y]crick[x]ac[x]uk
 (where (x, y, z) = (., @, - ))
 
-Laboratoire MAP5 UMR 8145, Office 814 D   
-Université de Paris UFR Mathématiques & Informatique    
-Campus Saint-Germain-des-Prés    
-45 rue des Saints-Pères, 75006 PARIS    
+The Francis Crick Institute
+1 Midland Road
+London NW1 1AT   

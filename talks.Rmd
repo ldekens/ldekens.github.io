@@ -1,0 +1,18 @@
+---
+title: "Talks in international conferences and workshops
+"
+output: html_document
+---
+
+12) *Evolution 2023* (Albuquerque, USA, June 2023)
+11) *RMR 2023 : Modèles mathématiques pour la biologie et la santé* (Rouen, June 2023)
+10) *Mathematical Models of Evolutionary Rescue* (Max Planck Institute for Evolutionary Biology,  Plön, Germany, June 2023)
+9) *ANR Integro-Differential Equations from EVolutionary biology* (IMAG,  Montpellier, October 2022)
+8) *14th Congress of the European Society of Mathematical Biology 2022* (Heidelberg, Germany, September 2022)
+7) *Congress of the European Society of Evolutionary Biology 2022* (Praha, Czech Republic, August 2022)
+6) *MMEE 2022* (Reading, UK, July 2022)
+5) *Evolution 2022* (Cleveland, USA, June 2022)
+4) *Mathematical models of Ecology and Evolution* (Institut Henri Poincaré, Paris, March 2022)
+3) *Non-Local Models arising from Biology* (CIRM, Marseille, October 2021)
+2) *Virtual Evolution 2021*
+1) *Society of Mathematical Biology 2021* (Talk Award for Population Dynamics & Evolution)
