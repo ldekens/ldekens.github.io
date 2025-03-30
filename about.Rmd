@@ -8,10 +8,8 @@ title: "Léonard Dekens | Contact"
 }
 </style>
 Mail: firstname[x]surname[y]crick[x]ac[x]uk
-(where (x, y, z) = (., @, - ))
+(where (x, y) = (., @))
 
 The Francis Crick Institute
-
 1 Midland Road
-
 London NW1 1AT   
