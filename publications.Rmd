@@ -8,7 +8,7 @@ output: html_document
   font-size: 14pt;
 }
 </style>
-7) __Sharp habitat shifts, evolutionary tipping points and rescue: quantifying the perilous path of a specialist species toward a refugium in a changing environment__, L. Dekens, 2024, (*Theoretical Population Biology*, doi: https://doi.org/10.1016/j.tpb.2024.09.001)
+1) __Sharp habitat shifts, evolutionary tipping points and rescue: quantifying the perilous path of a specialist species toward a refugium in a changing environment__, L. Dekens, 2024, (*Theoretical Population Biology*, doi: https://doi.org/10.1016/j.tpb.2024.09.001)
 
 6) __The best of both worlds: combining population genetic and quantitative genetic models__, L. Dekens, S.P. Otto and V. Calvez, 2022, *Theoretical Population Biology*, doi: https://doi.org/10.1016/j.tpb.2022.10.002, arXiv link: https://arxiv.org/abs/2111.11142)
 
