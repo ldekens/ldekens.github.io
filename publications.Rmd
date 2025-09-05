@@ -8,7 +8,7 @@ output: html_document
   font-size: 14pt;
 }
 </style>
-8-) __Cross-species comparative connectomics reveals the evolution of an olfactory circuit__, Roberts et al., 2025, (bioRxiv link: https://www.biorxiv.org/content/10.1101/2025.06.11.659158v1.abstract, *under review*)
+8-) __Cross-species comparative connectomics reveals the evolution of an olfactory circuit__, R.J.V. Roberts, C. Giez, S. Dhawan, S. Pang, N. Randel, Z. Lu, H. Gong, L. Dekens, J. Di Frisco, C. Shan Xu, H. F. Hess, M. Zlatic, A. Cardona, L. L. Prieto-Godino, 2025, (bioRxiv link: https://www.biorxiv.org/content/10.1101/2025.06.11.659158v1.abstract, *under review*)
 
 7) __Sharp habitat shifts, evolutionary tipping points and rescue: quantifying the perilous path of a specialist species toward a refugium in a changing environment__, L. Dekens, 2024, (*Theoretical Population Biology*, doi: https://doi.org/10.1016/j.tpb.2024.09.001)
 
