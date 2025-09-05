@@ -23,4 +23,3 @@ output: html_document
 2) __Influence of the mode of reproduction on dispersal evolution during species invasion__, V.  Calvez, J.  Crevat, L. Dekens, B.  Fabrèges, F.  Kuczma, F.  Lavigne and G.  Raoul, 2020, *ESAIM: ProcS 67 120-134* (doi:  		https://doi.org/10.1051/proc/202067008, pdf: https://www.esaim-proc.org/articles/proc/pdf/2020/01/proc206708.pdf)
 
 1) __Multivariate distribution correction of climate model outputs: A generalization of quantile mapping approaches.__ L. Dekens, S. Parey, M. Grandjacques and D. Dacunha‐Castelle. , 2017, *Environmetrics* (doi: https://doi.org/10.1002/env.2454)
-{: reversed="reversed"}
