@@ -22,3 +22,4 @@ title: "Talks in international conferences and workshops"
 3) *Non-Local Models arising from Biology* (CIRM, Marseille, October 2021)
 2) *Virtual Evolution 2021*
 1) *Society of Mathematical Biology 2021* (Talk Award for Population Dynamics & Evolution)
+{: reversed="reversed"}
